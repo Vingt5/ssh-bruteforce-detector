@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Security](https://img.shields.io/badge/Focus-Blue%20Team-blue)
+![Status](https://img.shields.io/badge/Project-Active-success)
+
 # 🚨 SSH Brute Force Detector
 
 Detect brute-force SSH login attempts from Linux authentication logs.
@@ -70,6 +74,17 @@ Monitoring authentication logs helps detect:
 - early signs of compromise  
 
 This type of detection is a fundamental task in **Security Operations Centers (SOC)** and Blue Team activities.
+
+---
+
+## 🧪 Real-World Use Case
+
+This script can help detect:
+
+- SSH brute-force attempts
+- credential stuffing attacks
+- unauthorized access attempts
+- early compromise indicators
 
 ---
 
