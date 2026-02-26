@@ -64,6 +64,12 @@ Suspicious IPs:
 
 ---
 
+## 🖥️ Detection Example
+
+![Detection](terminal-demo.png)
+
+---
+
 ## 🎯 Why This Matters
 
 Monitoring authentication logs helps detect:
